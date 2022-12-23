@@ -25,11 +25,10 @@
 
 }
 
-
 body {
     font-family: var(--fonte-padrao);
-    background-color: var(--02);
-}
+    background-image: url(imagens/684021.jpg);}
+
 
 header {
     background-image: linear-gradient(to bottom, var(--06), var(--05));
